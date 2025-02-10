@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:app/view/Dashboard/dashboard.dart';
 import 'package:get/get.dart';
+// desain baru
 void main() {
   runApp(MyApp());
 }
@@ -17,3 +18,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
